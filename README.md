@@ -272,7 +272,7 @@ All data has been anonymized and transformed to preserve structural behavior whi
 
 The estimated time to risk (~24 cycles) should be interpreted within the context of the process.
 
-Considering that each cycle lasts approximately 300 seconds, this corresponds to a relatively short time window for the system to reach critical degradation levels.
+Considering that each cycle lasts approximately t seconds, this corresponds to a relatively short time window for the system to reach critical degradation levels.
 
 This indicates that:
 
